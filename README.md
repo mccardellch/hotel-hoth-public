@@ -1,8 +1,7 @@
 # backend 
 Assignments, projects, coursework from IGME 105,106, 209, 309 courses
- - data structures, algortithms, OOP
-
-*programs created with C#, C++*
+ - programs created with C#, C++
+ - data structures, algortithms, OOP, etc.
 
 (*still working on filling this out with my work*)
 
