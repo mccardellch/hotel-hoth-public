@@ -1,0 +1,17 @@
+﻿
+
+Hello!
+
+Welcome to Hotel Hoth.
+This game was created in IGME 106.
+
+----Controls
+- use WASD for movement
+- use SPACEBAR for shooting
+- hint* press INSERT on the main menu for a little easter egg
+
+---Instructions
+- collect 3 coins and get to the door
+- watch out for enemies and their bullets
+- collect knives for increased damage
+- collect hearts for increased health
