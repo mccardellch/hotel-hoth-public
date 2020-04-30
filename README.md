@@ -6,7 +6,7 @@ Assignments, projects, coursework from IGME 105,106, 209, 309 courses
 (*still working on filling this out with my work*)
 
  ### Hotel Hoth - C#
-  ![Hotel Hoth In-game Screenshot](images/hotel%20hoth.png)
+  ![Hotel Hoth In-game Screenshot](screenshots/hotel%20hoth.png)
   - Top-down dungeon shooter 
   - Implements: 
     - Object-Oriented Programming 
