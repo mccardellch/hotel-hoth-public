@@ -1,7 +1,5 @@
-# backend
-*still working on filling this out with my work*
-
-programs created with C#, C++
+# backend - *programs created with C#, C++*
+(*still working on filling this out with my work*)
 
 from IGME 105,106, 209, 309 courses
  - Data structures
