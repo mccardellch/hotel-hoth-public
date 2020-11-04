@@ -14,3 +14,12 @@ Assignments, projects, coursework from IGME 105,106, 209, 309 courses
     - File IO for external tool: total map creation
     - Data structures for bullets, enemies, collectibles
   - Group Project, IGME 106
+
+#### You can check out my other repositories of my work here:
+- Web: https://github.com/mccardellch/web/
+- Backend: https://github.com/mccardellch/backend/
+- Old Portfolio: https://people.rit.edu/hhm7826/230/portfolio/
+
+#### Feel free to reach out and connect:
+- LinkedIn :  https://www.linkedin.com/in/harry-mccardell/
+- Email : mccardellhar@gmail.com
