@@ -1,10 +1,3 @@
-# backend 
-Assignments, projects, coursework from IGME 105,106, 209, 309 courses
- - programs created with C#, C++
- - data structures, algortithms, OOP, etc.
-
-(*still working on filling this out with my work*)
-
  ### Hotel Hoth - C#
   ![Hotel Hoth In-game Screenshot](screenshots/hotel%20hoth.png)
   - Top-down dungeon shooter 
